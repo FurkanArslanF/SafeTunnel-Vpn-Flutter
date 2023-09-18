@@ -4,7 +4,8 @@ Flutter ile yapılan bir vpn uygulamasıdır. Uygulamayı kullanabilmek reklam i
 
 Kullanılan Paketler :
 
-kartal riverpod,
+kartal,
+riverpod,
 hooks_riverpod, 
 sizer, 
 go_router, 
@@ -25,7 +26,8 @@ This is a VPN application built with Flutter. To use the application, users need
 
 Used Packages:
 
-kartal riverpod,
+kartal,
+riverpod,
 hooks_riverpod, 
 sizer, 
 go_router, 
