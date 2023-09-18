@@ -17,7 +17,8 @@ openvpn_flutter,
 flutter_secure_storage, 
 country_icons, 
 in_app_review, 
-url_launcher upgrader.
+url_launcher,
+upgrader.
 
 
 EN
@@ -39,7 +40,8 @@ openvpn_flutter,
 flutter_secure_storage, 
 country_icons, 
 in_app_review, 
-url_launcher upgrader.
+url_launcher,
+upgrader.
 
 
 ![splash-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/9cc7ab64-a813-4f00-abbb-62c3385ffc2f)
