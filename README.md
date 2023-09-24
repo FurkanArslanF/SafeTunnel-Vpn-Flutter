@@ -1,3 +1,6 @@
+Play Store : https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn
+
+
 TR
 
 Flutter ile yapılan bir vpn uygulamasıdır. Uygulamayı kullanabilmek reklam izlemeli ve süre kazanmalısınız. Splash Screen ekranında internet kontrolü yapılmakta eğer cihazın internet erişimi yoksa uygulama açılmaz. Vpn sunucuları apiden çekilmekte. Vpn aktif oldukdan sonra kazandığınız süre boyunca kullanabilirsiniz. Süre bitiminde vpn kendisini kapatır. Vpn aktif uygulama sonlandırıldığında vpn kendisini kapatır.
