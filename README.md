@@ -1,58 +1,60 @@
-Play Store : https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn
+<h2 align="center">SafeTunnel VPN Fast and Secure</h2>
+
+###
+
+<div align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn">
+        <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-green" alt="Play Store">
+    </a>
+</div>
+
+###
+
+![Frame 13](https://github.com/FurkanArslanF/SafeTunnel-Vpn-Flutter/assets/74710096/b8ded6dd-c7e4-4b4a-864f-3e8e89750211)
+
+## TR (Türkçe Açıklama)
+
+<p>SafeTunnel VPN, Flutter kullanılarak geliştirilmiş bir VPN uygulamasıdır. Uygulamayı kullanabilmek için reklamları izlemeniz ve süre kazanmanız gerekmektedir. Ayrıca, Splash Screen ekranında cihazınızın internet erişimini kontrol ederiz; internet erişimi olmadığı durumda uygulama açılmaz. VPN sunucularını bir API'den dinamik olarak alırız. VPN aktif olduğunda, kazandığınız süre boyunca uygulamayı kesintisiz kullanabilirsiniz. Süre dolduğunda VPN otomatik olarak kapanır ve hatta VPN aktifken uygulama kapatıldığında bile VPN otomatik olarak kapanır.</p>
+
+### Kullanılan Paketler:
+<ul>
+   <li><a href="https://pub.dev/packages/kartal">kartal</a></li>
+   <li><a href="https://pub.dev/packages/kartal">riverpod</a></li>
+   <li><a href="https://pub.dev/packages/kartal">hooks_riverpod</a></li>
+   <li><a href="https://pub.dev/packages/kartal">sizer</a></li>
+   <li><a href="https://pub.dev/packages/kartal">go_router</a></li>
+   <li><a href="https://pub.dev/packages/kartal">custom_timer</a></li>
+   <li><a href="https://pub.dev/packages/kartal">google_mobile_ads</a></li>
+   <li><a href="https://pub.dev/packages/kartal">dio</a></li>
+   <li><a href="https://pub.dev/packages/kartal">fluttertoast</a></li>
+   <li><a href="https://pub.dev/packages/kartal">openvpn_flutter</a></li>
+   <li><a href="https://pub.dev/packages/kartal">flutter_secure_storage</a></li>
+   <li><a href="https://pub.dev/packages/kartal">country_icons</a></li>
+   <li><a href="https://pub.dev/packages/kartal">in_app_review</a></li>
+   <li><a href="https://pub.dev/packages/kartal">url_launcher</a></li>
+   <li><a href="https://pub.dev/packages/kartal">upgrader</a></li>
+</ul>
 
 
-TR
+## EN (English Description)
 
-Flutter ile yapılan bir vpn uygulamasıdır. Uygulamayı kullanabilmek reklam izlemeli ve süre kazanmalısınız. Splash Screen ekranında internet kontrolü yapılmakta eğer cihazın internet erişimi yoksa uygulama açılmaz. Vpn sunucuları apiden çekilmekte. Vpn aktif oldukdan sonra kazandığınız süre boyunca kullanabilirsiniz. Süre bitiminde vpn kendisini kapatır. Vpn aktif uygulama sonlandırıldığında vpn kendisini kapatır.
+SafeTunnel VPN is a VPN application developed using Flutter. To use the application, you need to watch ads and earn time. Additionally, we check your device's internet access on the Splash Screen; if there is no internet access, the application won't open. We dynamically fetch VPN servers from an API. Once the VPN is active, you can use it continuously for the time you've earned. When your time runs out, the VPN will automatically disconnect, and even if the application is closed while the VPN is active, the VPN will close automatically..
 
-Kullanılan Paketler :
-
-kartal,
-riverpod,
-hooks_riverpod, 
-sizer, 
-go_router, 
-custom_timer, 
-google_mobile_ads, 
-dio, 
-fluttertoast, 
-openvpn_flutter, 
-flutter_secure_storage, 
-country_icons, 
-in_app_review, 
-url_launcher,
-upgrader.
-
-
-EN
-
-This is a VPN application built with Flutter. To use the application, users need to watch ads and earn time. An internet connectivity check is performed on the Splash Screen, and if the device lacks internet access, the application will not open. VPN servers are fetched from an API. Once the VPN is activated, you can use the earned time. When the time expires, the VPN will automatically disconnect. If the application is terminated while the VPN is active, the VPN will also disconnect.
-
-Used Packages:
-
-kartal,
-riverpod,
-hooks_riverpod, 
-sizer, 
-go_router, 
-custom_timer, 
-google_mobile_ads, 
-dio, 
-fluttertoast, 
-openvpn_flutter, 
-flutter_secure_storage, 
-country_icons, 
-in_app_review, 
-url_launcher,
-upgrader.
-
-
-![splash-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/9cc7ab64-a813-4f00-abbb-62c3385ffc2f)
-![anasayfa-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/c54a9c20-bfd5-4b97-b26a-55d9e04ed449)
-![earntime-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/1b5b2937-834a-401b-ac51-8759b0fe9fff)
-![serverselect-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/5ff60ed5-cdcc-4c04-82de-e8382a798305)
-![vpnfirstconnection-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/543a5231-c86d-4f58-bbf9-94ac337cdf58)
-![connecting-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/73f394ce-3ace-4f47-8767-24e45cb085b3)
-![connect-removebg-preview](https://github.com/starzonF/flutter_free_vpn/assets/74710096/bd0f4fe1-8b07-4252-bcf6-fc6526445cb7)
-
-
+### Used Packages:
+<ul>
+   <li><a href="https://pub.dev/packages/kartal">kartal</a></li>
+   <li><a href="https://pub.dev/packages/kartal">riverpod</a></li>
+   <li><a href="https://pub.dev/packages/kartal">hooks_riverpod</a></li>
+   <li><a href="https://pub.dev/packages/kartal">sizer</a></li>
+   <li><a href="https://pub.dev/packages/kartal">go_router</a></li>
+   <li><a href="https://pub.dev/packages/kartal">custom_timer</a></li>
+   <li><a href="https://pub.dev/packages/kartal">google_mobile_ads</a></li>
+   <li><a href="https://pub.dev/packages/kartal">dio</a></li>
+   <li><a href="https://pub.dev/packages/kartal">fluttertoast</a></li>
+   <li><a href="https://pub.dev/packages/kartal">openvpn_flutter</a></li>
+   <li><a href="https://pub.dev/packages/kartal">flutter_secure_storage</a></li>
+   <li><a href="https://pub.dev/packages/kartal">country_icons</a></li>
+   <li><a href="https://pub.dev/packages/kartal">in_app_review</a></li>
+   <li><a href="https://pub.dev/packages/kartal">url_launcher</a></li>
+   <li><a href="https://pub.dev/packages/kartal">upgrader</a></li>
+</ul>
