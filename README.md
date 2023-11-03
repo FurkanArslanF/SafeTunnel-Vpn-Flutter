@@ -19,20 +19,20 @@
 ### Kullanılan Paketler:
 <ul>
    <li><a href="https://pub.dev/packages/kartal">kartal</a></li>
-   <li><a href="https://pub.dev/packages/kartal">riverpod</a></li>
-   <li><a href="https://pub.dev/packages/kartal">hooks_riverpod</a></li>
-   <li><a href="https://pub.dev/packages/kartal">sizer</a></li>
-   <li><a href="https://pub.dev/packages/kartal">go_router</a></li>
-   <li><a href="https://pub.dev/packages/kartal">custom_timer</a></li>
-   <li><a href="https://pub.dev/packages/kartal">google_mobile_ads</a></li>
-   <li><a href="https://pub.dev/packages/kartal">dio</a></li>
-   <li><a href="https://pub.dev/packages/kartal">fluttertoast</a></li>
-   <li><a href="https://pub.dev/packages/kartal">openvpn_flutter</a></li>
-   <li><a href="https://pub.dev/packages/kartal">flutter_secure_storage</a></li>
-   <li><a href="https://pub.dev/packages/kartal">country_icons</a></li>
-   <li><a href="https://pub.dev/packages/kartal">in_app_review</a></li>
-   <li><a href="https://pub.dev/packages/kartal">url_launcher</a></li>
-   <li><a href="https://pub.dev/packages/kartal">upgrader</a></li>
+   <li><a href="https://pub.dev/packages/riverpod">riverpod</a></li>
+   <li><a href="https://pub.dev/packages/hooks_riverpod">hooks_riverpod</a></li>
+   <li><a href="https://pub.dev/packages/sizer">sizer</a></li>
+   <li><a href="https://pub.dev/packages/go_router">go_router</a></li>
+   <li><a href="https://pub.dev/packages/custom_timer">custom_timer</a></li>
+   <li><a href="https://pub.dev/packages/google_mobile_ads">google_mobile_ads</a></li>
+   <li><a href="https://pub.dev/packages/dio">dio</a></li>
+   <li><a href="https://pub.dev/packages/fluttertoast">fluttertoast</a></li>
+   <li><a href="https://pub.dev/packages/openvpn_flutter">openvpn_flutter</a></li>
+   <li><a href="https://pub.dev/packages/flutter_secure_storage">flutter_secure_storage</a></li>
+   <li><a href="https://pub.dev/packages/country_icons">country_icons</a></li>
+   <li><a href="https://pub.dev/packages/in_app_review">in_app_review</a></li>
+   <li><a href="https://pub.dev/packages/url_launcher">url_launcher</a></li>
+   <li><a href="https://pub.dev/packages/upgrader">upgrader</a></li>
 </ul>
 
 
@@ -43,18 +43,18 @@ SafeTunnel VPN is a VPN application developed using Flutter. To use the applicat
 ### Used Packages:
 <ul>
    <li><a href="https://pub.dev/packages/kartal">kartal</a></li>
-   <li><a href="https://pub.dev/packages/kartal">riverpod</a></li>
-   <li><a href="https://pub.dev/packages/kartal">hooks_riverpod</a></li>
-   <li><a href="https://pub.dev/packages/kartal">sizer</a></li>
-   <li><a href="https://pub.dev/packages/kartal">go_router</a></li>
-   <li><a href="https://pub.dev/packages/kartal">custom_timer</a></li>
-   <li><a href="https://pub.dev/packages/kartal">google_mobile_ads</a></li>
-   <li><a href="https://pub.dev/packages/kartal">dio</a></li>
-   <li><a href="https://pub.dev/packages/kartal">fluttertoast</a></li>
-   <li><a href="https://pub.dev/packages/kartal">openvpn_flutter</a></li>
-   <li><a href="https://pub.dev/packages/kartal">flutter_secure_storage</a></li>
-   <li><a href="https://pub.dev/packages/kartal">country_icons</a></li>
-   <li><a href="https://pub.dev/packages/kartal">in_app_review</a></li>
-   <li><a href="https://pub.dev/packages/kartal">url_launcher</a></li>
-   <li><a href="https://pub.dev/packages/kartal">upgrader</a></li>
+   <li><a href="https://pub.dev/packages/riverpod">riverpod</a></li>
+   <li><a href="https://pub.dev/packages/hooks_riverpod">hooks_riverpod</a></li>
+   <li><a href="https://pub.dev/packages/sizer">sizer</a></li>
+   <li><a href="https://pub.dev/packages/go_router">go_router</a></li>
+   <li><a href="https://pub.dev/packages/custom_timer">custom_timer</a></li>
+   <li><a href="https://pub.dev/packages/google_mobile_ads">google_mobile_ads</a></li>
+   <li><a href="https://pub.dev/packages/dio">dio</a></li>
+   <li><a href="https://pub.dev/packages/fluttertoast">fluttertoast</a></li>
+   <li><a href="https://pub.dev/packages/openvpn_flutter">openvpn_flutter</a></li>
+   <li><a href="https://pub.dev/packages/flutter_secure_storage">flutter_secure_storage</a></li>
+   <li><a href="https://pub.dev/packages/country_icons">country_icons</a></li>
+   <li><a href="https://pub.dev/packages/in_app_review">in_app_review</a></li>
+   <li><a href="https://pub.dev/packages/url_launcher">url_launcher</a></li>
+   <li><a href="https://pub.dev/packages/upgrader">upgrader</a></li>
 </ul>
